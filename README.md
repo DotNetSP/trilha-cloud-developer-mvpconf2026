@@ -1,6 +1,22 @@
 # trilha-cloud-developer-mvpconf2026
 Fotos e informações das apresentações da trilha de Cloud &amp; Developer do MVP Conference 2026.
 
+### Implementando testes de integração para ambientes Kubernetes com kind + Azure DevOps
+
+Palestrantes:
+- **Diego Matos (Microsoft MVP)**
+- **Eduardo Rezende**
+
+Tecnologias e tópicos abordados: **xxxxxxxx**
+
+Público: **?? pessoas**
+
+Para acessar todas as fotos desta apresentação clique neste [**link**](img/01-managed-identity/).
+
+![Managed Identity 1](img/01-managed-identity/managed-identity-28.jpg)
+
+![Managed Identity 2](img/01-managed-identity/managed-identity-21.jpg)
+
 ### Do Código à Nuvem: Criando Recursos na Azure Cloud com Terraform e Azure DevOps
 
 Palestrante: **Nagib Sabbag Filho (Microsoft MVP)**
