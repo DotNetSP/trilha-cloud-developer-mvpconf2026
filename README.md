@@ -1,6 +1,8 @@
 # trilha-cloud-developer-mvpconf2026
 Fotos e informações das apresentações da trilha de Cloud &amp; Developer do MVP Conference 2026.
 
+14 a 17 pessoas na palestra de OpenTelemetry
+
 ### Soluções de Inteligência Artificial em Kubernetes com Dapr: da implementação ao deployment!
 
 Palestrantes:
